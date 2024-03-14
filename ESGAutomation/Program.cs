@@ -17,8 +17,8 @@ namespace EsgSurveyAutomation
     //program
     class Program
     {
-        private const string TextAnalyticsEndpoint = "https://azure-esgsearch.search.windows.net";
-        private const string TextAnalyticsApiKey = "2pPB4QvbbUSztBR6hDT3W0FxwUaVxoCrTXJIdNgAsqAzSeAKEHYD";
+        private const string TextAnalyticsEndpoint = "";
+        private const string TextAnalyticsApiKey = "";
         private const string StorageConnectionString = "<YOUR_STORAGE_CONNECTION_STRING>";
         private const string ContainerName = "<YOUR_CONTAINER_NAME>";
 
